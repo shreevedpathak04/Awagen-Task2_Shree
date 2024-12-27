@@ -77,7 +77,7 @@ const App = () => {
       </View>
 
       <View style={styles.footer}>
-        <Text style={styles.footerText}>Calc by Vijay</Text>
+        <Text style={styles.footerText}>Calc by Shreenidhi </Text>
       </View>
     </SafeAreaView>
   );
